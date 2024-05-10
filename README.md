@@ -3,16 +3,16 @@
             <h1>
                 <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px alt="Pokémon Ditto Dancing">
                 <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px alt="Pokémon Pikachu Dancing">
-                <img src="https://img.shields.io/badge/Focamacho-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Focamacho's Badge"/>
+                <img src="https://img.shields.io/badge/Cwoad-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Cwoad's Badge"/>
                 <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px alt="Pokémon Pikachu Dancing">
                 <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px alt="Pokémon Ditto Dancing">
             </h1>
         </a>
         <h3>About me</h3>
         <p>
-            Hello! I'm Focamacho, a programming student who seeks to improve his skills in the most diverse areas 👋
+            Hello! I'm Cwoad 👋
             <br/>
-            I am passionate about games and I like to create mods and plugins for them ❤
+            I am passionate about games  ❤
             <br/>
         🌹🌼🌷🌸🌻🌺🌹🌼🌷🌸🌻🌺🌹
             <br/>
